@@ -46,7 +46,6 @@ $(OUT_DIR)/%.json: $(OUT_DIR)/%/bin/python3
 		comprehensions, \
 		concurrent_imap, \
 		coroutines, \
-		coverage, \
 		crypto_pyaes, \
 		deepcopy, \
 		deltablue, \
@@ -89,7 +88,6 @@ $(OUT_DIR)/%.json: $(OUT_DIR)/%/bin/python3
 		scimark, \
 		spectral_norm, \
 		sqlglot, \
-		sqlite_synth, \
 		telco, \
 		tomli_loads, \
 		typing_runtime_protocols, \
